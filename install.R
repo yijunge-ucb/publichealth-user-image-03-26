@@ -433,7 +433,7 @@ packages = list(
   "lemon" =  "0.4.9",
   "reactable" =  "0.4.4",
   "flexdashboard" =  "0.5.2",
-  "rio" = "1.1.0",
+  "rio" = "1.1.0"
 )
 
 install_packages_with_versions(packages)
