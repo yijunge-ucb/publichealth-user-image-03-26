@@ -434,16 +434,6 @@ packages = list(
   "reactable" =  "0.4.4",
   "flexdashboard" =  "0.5.2",
   "rio" = "1.1.0",
-  # ph-252
-  "blm" = "2013.2.4.4",
-  "geepack" = "1.3-2",
-  "epitools" = "0.5-10.1",
-  "rms" =  "6.2-0",
-  "SurvRegCensCov" = "1.4",
-  "ProfileLikelihood" = "1.1",
-  "biostat3" = "0.1.5",
-  # ph-290
-  "formattable" =  "0.2.1"
 )
 
 install_packages_with_versions(packages)
